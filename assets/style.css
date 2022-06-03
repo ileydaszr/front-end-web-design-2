@@ -1,0 +1,135 @@
+h1.baslik {
+    font-family: "Impact";
+  }
+  
+  h1.baslik2 {
+    font-family: "Impact";
+    color: #ff6000 ;
+  }
+
+  a.nav-link {
+    
+    color: black;
+
+  }  
+
+div.background {
+  height: 700px;
+  width: 100% ;
+ 
+  background:url('../img/5.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  opacity: 0.2;
+  position : absolute; 
+
+}
+
+div.efect {
+  height: 700px;
+  width: 100% ;
+  background:url('../img/4.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position : absolute; 
+}
+div.foto {
+  height: 700px;
+  width: 100% ;
+ 
+  background:url('../img/foto.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position : absolute; 
+}
+
+div.a {
+  height: 700px;
+  width: 100% ;
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  opacity: 0.7;
+  position : absolute; 
+
+}
+
+h1.baslik3 {
+  font-family: "Impact";
+  color: white ;
+ padding-left: 800px;
+ padding-top: 200px;
+ font-size: 50px;
+ position : absolute; 
+ 
+}
+
+h1.baslik4 {
+  font-family: "Impact";
+  color: white ;
+ padding-left: 880px;
+ padding-top: 260px;
+ font-size: 50px;
+ position : absolute; 
+ 
+}
+h1.baslik5 {
+  font-family: "Impact";
+  color: #ff6000 ;
+  text-align: center;
+ font-size: 40px;
+ background-color: #383736;
+ 
+ 
+}
+
+p {
+  padding-top: 180px;
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+h1.baslik6 {
+  font-family: "Audiowide", sans-serif;
+  color: black ;
+  padding-left: 200px;
+ padding-top: 180px;
+ text-align: center;
+ font-weight: bold;
+ font-size: 40px;
+ 
+}
+
+h1.baslik7 {
+  font-family: "Audiowide", sans-serif;
+  color: black ;
+  padding-left: 350px;
+ padding-top: 180px;
+ text-align: center;
+ font-size: 40px;
+ font-weight: bold;
+ 
+}
+
+button.btn {
+  font-family: "Audiowide", sans-serif;
+  border: 2px solid #ff6000; /* Green */
+  background-color:#ff6000;
+  border-radius: 18px;
+ width: 30%;
+
+}
+
+p.footer {
+font-style: oblique ;
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+  text-align: center;
+  color: white;
+  padding: 100px;
+
+}
